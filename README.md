@@ -1,3 +1,5 @@
+![logo](https://github.com/rakiburrahman307/rakiburrahman307/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Md.Rakibur Rahman</h1>
 <h3 align="center">Junior Web Developer 🇧🇩 | Turning dreams into code from Bangladesh | Adding a touch of Unicorn Magic</h3>
 
@@ -5,7 +7,7 @@
 
 - 🌱 I’m currently learning **React,MongoDB,ExpressJs,Tailwind Css**
 
-- 🌱 My Feature Plan to learning **NextJS**
+- 🚀 My Feature Plan to learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [Adding Later](Adding Later)
 
