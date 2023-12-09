@@ -26,7 +26,7 @@
 - 📫 How to reach me **rakiburrahman307@gmail.com**
 
 - 📄 Know about my experiences [Adding Later](Adding Later)
-![GitHub metrics](https://metrics.lecoq.io/rakiburrahman307) 
+ 
 - ⚡ Fun fact **I'm on a mission to collect unique keyboard stickers from around the world, turning my coding workspace into a vibrant global masterpiece!🌍🎨💻**
 
 <h3 align="left">Connect with me:</h3>
@@ -44,6 +44,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakiburrahman307&show_icons=true&locale=en&layout=compact" alt="rakiburrahman307" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakiburrahman307&show_icons=true&locale=en" alt="rakiburrahman307" /></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" alt="rakiburrahman307" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakiburrahman307&" alt="rakiburrahman307" /></p>
 <br>
