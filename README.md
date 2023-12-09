@@ -6,33 +6,35 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakiburrahman307&label=Profile%20views&color=0e75b6&style=flat" alt="rakiburrahman307" /> </p>
 
 ## Description
-🌟 Hello There! I'm Md.Rakibur Rahman, more than a coder, I'm a digital dreamweaver! 👋 Embarking on a coding odyssey for the past 6 months, I've explored the mystical realms of ReactJS, HTML, CSS, MongoDB, JavaScript, Node.js, Tealwind CSS, and Express.
-In this labyrinth of learning, each line of code is a brushstroke, weaving a masterpiece that tells the tale of my journey—fueled by an insatiable curiosity and an unbridled love for the art of web development. The excitement of endless possibilities keeps me burning the midnight oil, and frankly, I wouldn't have it any other way!
-As a proud BSc graduate in Computer Science and Engineering, I'm not just here to code, I'm here to breathe life into ideas, collaborate on projects that redefine the game, and ride the exhilarating wave of evolution in the ever-dynamic world of web development. Let's not settle for ordinary; let's together sculpt digital wonders that leave everyone in awe! 💻 Unic by nature; no copyright claims can hold the creativity within. 🦄
+
+Hello! I'm Md.Rakibur Rahman, a passionate web developer with 6 months of hands-on experience in ReactJS, HTML, CSS, MongoDB, JavaScript, Node.js, Tealwind CSS, and Express.
+In my journey through the realms of web development, each line of code tells a story a narrative fueled by curiosity and love for the art. The thrill of endless possibilities keeps me engaged, even during the late hours.
+As a BSc graduate in Computer Science and Engineering, I aspire to breathe life into ideas. Beyond coding, I'm here to collaborate on projects, redefine industry standards, and ride the dynamic wave of web development evolution.
+Let's go beyond the ordinary together, let's create digital wonders that leave a lasting impression! Unic by nature; creativity knows no bounds.
 
 <h3 align="left">Project Live Preview</h3>
 🔭 I’m currently working on [UniStayHub](https://relaxed-puffpuff-31caad.netlify.app/)
 
 
-- 👯 I’m also collaborate on [Job Swift](https://curious-starburst-d1ee83.netlify.app/)
+- I’m also collaborate on [Job Swift](https://curious-starburst-d1ee83.netlify.app/)
 
-- 🤝 My Previous project [Ethereal Autos](https://6533dbc842df062c581574d2--cool-gecko-ec8121.netlify.app/)
+-  My Previous project [Ethereal Autos](https://6533dbc842df062c581574d2--cool-gecko-ec8121.netlify.app/)
 
 <h3 align="left">Details</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, React, MongoDB, ExpressJs, Tailwind Css**
+-  I’m currently learning **HTML, CSS, React, MongoDB, ExpressJs, Tailwind Css**
 
-- 🚀 My Feature Plan to learn **NextJS**
+-  My Feature Plan to learn **NextJS**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/rakiburrahman307?tab=repositories)
+-  All of my projects are available at [GitHub](https://github.com/rakiburrahman307?tab=repositories)
 
-- 💬 Ask me about **Wab Development**
+-  Ask me about **Wab Development**
 
-- 📫 How to reach me **rakiburrahman307@gmail.com**
+-  How to reach me **rakiburrahman307@gmail.com**
 
-- 📄 Know about my experiences [Adding Later](Adding Later)
+-  Know about my experiences [Adding Later](Adding Later)
  
-- ⚡ Fun fact **I'm on a mission to collect unique keyboard stickers from around the world, turning my coding workspace into a vibrant global masterpiece!🌍🎨💻**
+-  Fun fact **I'm on a mission to collect unique keyboard stickers from around the world, turning my coding workspace into a vibrant global masterpiece!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
