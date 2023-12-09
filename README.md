@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakiburrahman307&label=Profile%20views&color=0e75b6&style=flat" alt="rakiburrahman307" /> </p>
 
 ## Description
-🌟 Hello There! I'm Md.Rakibur Rahman—more than a coder, I'm a digital dreamweaver! 👋 Embarking on a coding odyssey for the past 6 months, I've delved into the mystical realms of ReactJS, HTML, CSS, MongoDB, JavaScript, Node.js, Tealwind CSS, and Express.
+🌟 Hello There! I'm Md.Rakibur Rahman, more than a coder, I'm a digital dreamweaver! 👋 Embarking on a coding odyssey for the past 6 months, I've explored the mystical realms of ReactJS, HTML, CSS, MongoDB, JavaScript, Node.js, Tealwind CSS, and Express.
 In this labyrinth of learning, each line of code is a brushstroke, weaving a masterpiece that tells the tale of my journey—fueled by an insatiable curiosity and an unbridled love for the art of web development. The excitement of endless possibilities keeps me burning the midnight oil, and frankly, I wouldn't have it any other way!
-I'm not just here to code; I'm here to breathe life into ideas, collaborate on projects that redefine the game, and ride the exhilarating wave of evolution in the ever-dynamic world of web development. Let's not settle for ordinary; let's together sculpt digital wonders that leave everyone in awe! 💻🚀 Unic by nature; no copyright claims can hold the creativity within. 🦄
+As a proud BSc graduate in Computer Science and Engineering, I'm not just here to code, I'm here to breathe life into ideas, collaborate on projects that redefine the game, and ride the exhilarating wave of evolution in the ever-dynamic world of web development. Let's not settle for ordinary; let's together sculpt digital wonders that leave everyone in awe! 💻 Unic by nature; no copyright claims can hold the creativity within. 🦄
 
-<h3 align="left">Project Live Preview:</h3>
+<h3 align="left">Project Live Preview</h3>
 🔭 I’m currently working on [UniStayHub](https://relaxed-puffpuff-31caad.netlify.app/)
 
 
@@ -18,7 +18,7 @@ I'm not just here to code; I'm here to breathe life into ideas, collaborate on p
 
 - 🤝 My Previous project [Ethereal Autos](https://6533dbc842df062c581574d2--cool-gecko-ec8121.netlify.app/)
 
-<h3 align="left">Details:</h3>
+<h3 align="left">Details</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, React, MongoDB, ExpressJs, Tailwind Css**
 
