@@ -49,4 +49,6 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakiburrahman307&" alt="rakiburrahman307" /></p>
 <br>
-[![GitHub Trends SVG](https://www.githubwrapped.io/rakiburrahman307)](https://githubtrends.io)
+<p><img align="center" src="https://www.githubwrapped.io/rakiburrahman307" alt="rakiburrahman307" /></p>
+<br>
+
