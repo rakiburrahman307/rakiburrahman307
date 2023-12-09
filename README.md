@@ -50,10 +50,10 @@
 <div><p><img align="center" src="https://github.com/rakiburrahman307/rakiburrahman307/blob/main/github-wrapped%20(1).png" alt="rakiburrahman307" /></p></div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakiburrahman307&show_icons=true&locale=en&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rakiburrahman307&show_icons=true&locale=en" />
 </a>
 
 
