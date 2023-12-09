@@ -15,7 +15,7 @@
 
 <h3 align="left">Details:</h3>
 
-- 🌱 I’m currently learning **React,MongoDB,ExpressJs,Tailwind Css**
+- 🌱 I’m currently learning **HTML, CSS, React, MongoDB, ExpressJs, Tailwind Css**
 
 - 🚀 My Feature Plan to learn **NextJS**
 
@@ -49,5 +49,11 @@
 <div><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakiburrahman307&" alt="rakiburrahman307" /></p></div>
 <div><p><img align="center" src="https://github.com/rakiburrahman307/rakiburrahman307/blob/main/github-wrapped%20(1).png" alt="rakiburrahman307" /></p></div>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
