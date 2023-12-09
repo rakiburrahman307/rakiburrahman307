@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakiburrahman307&label=Profile%20views&color=0e75b6&style=flat" alt="rakiburrahman307" /> </p>
 
-- 🌱 I’m currently learning **nextJs**
+- 🌱 I’m currently learning **React,MongoDB,ExpressJs,Tailwind Css**
+
+- 🌱 My Feature Plan to learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [Adding Later](Adding Later)
 
@@ -17,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rakibur-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakibur-rahman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rakibur-rahman-14b33a2a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakibur-rahman" height="30" width="40" /></a>
 <a href="https://fb.com/rakiburrahman305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakiburrahman305" height="30" width="40" /></a>
 <a href="https://instagram.com/rakibur_rahman_305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakibur_rahman_305" height="30" width="40" /></a>
 </p>
