@@ -45,15 +45,14 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakiburrahman307&show_icons=true&locale=en&layout=compact" />
 </a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" alt="rakiburrahman307" /></p>
 </div>
 <div>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rakiburrahman307&show_icons=true&locale=en" />
 </a>
 </div>
-<div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" alt="rakiburrahman307" /></p>
-</div>
+
 <div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakiburrahman307&" alt="rakiburrahman307" /></p></div>
 <div>
