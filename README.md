@@ -26,7 +26,7 @@
 - 📫 How to reach me **rakiburrahman307@gmail.com**
 
 - 📄 Know about my experiences [Adding Later](Adding Later)
-
+![GitHub metrics](https://metrics.lecoq.io/rakiburrahman307) 
 - ⚡ Fun fact **I'm on a mission to collect unique keyboard stickers from around the world, turning my coding workspace into a vibrant global masterpiece!🌍🎨💻**
 
 <h3 align="left">Connect with me:</h3>
