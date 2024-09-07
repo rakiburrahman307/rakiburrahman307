@@ -63,7 +63,7 @@ Let's go beyond the ordinary together, let's create digital wonders that leave a
 <div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakiburrahman307&" alt="rakiburrahman307" /></p></div>
 <div>
-<p><img align="center" src="https://github.com/rakiburrahman307/rakiburrahman307/blob/main/github-wrapped%20(1).png" alt="rakiburrahman307" /></p>
+<p><img align="center" src="https://github.com/rakiburrahman307/rakiburrahman307/blob/main/github-wrapped.png" alt="rakiburrahman307" /></p>
 </div>
 
 
