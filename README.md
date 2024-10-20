@@ -13,7 +13,7 @@ As a BSc graduate in Computer Science and Engineering, I aspire to breathe life 
 Let's go beyond the ordinary together, let's create digital wonders that leave a lasting impression! Unic by nature; creativity knows no bounds.
 
 <h3 align="left">Project Live Preview</h3>
-🔭 I’m currently working on [UniStayHub](https://relaxed-puffpuff-31caad.netlify.app/)
+🔭 I’m currently working on [UniStayHub](https://unistayhub-hostel-manegement.netlify.app/)
 
 
 - I’m also collaborate on [Job Swift](https://curious-starburst-d1ee83.netlify.app/)
