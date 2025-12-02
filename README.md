@@ -19,6 +19,7 @@
   </a>
 </div>
 
+---
 ### 👨‍💻 About Me
 
 Hi, I'm **Md. Rakibur Rahman**. I am a professional **Backend Developer** with **1 year of commercial experience**, currently working at **Spark Tech Agency**.
@@ -33,6 +34,7 @@ At **Spark Tech Agency**, I work on real-world production applications, collabor
 - 💬 **Ask me about:** Backend Architecture, REST APIs, and Database Optimization.
 - ⚡ **Fun fact:** I collect unique keyboard stickers from around the world to turn my desk into a global masterpiece! 🌍⌨️
 
+---
 ### 🛠️ Languages and Tools
 
 <p align="left">
