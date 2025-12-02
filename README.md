@@ -1,7 +1,8 @@
 ![Banner](https://github.com/rakiburrahman307/rakiburrahman307/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner%20(2).png)
 
 <h1 align="center">Hi 👋, I'm Md. Rakibur Rahman</h1>
-<h3 align="center">Backend Developer 🇧🇩 | Turning Dreams into Code | Adding a touch of Unicorn Magic 🦄</h3>
+<h3 align="center">Backend Developer @ Spark Tech Agency 🇧🇩 | Node.js & TypeScript Specialist</h3>
+<h4 align="center">Forging robust backend architectures with precision and logic 🚀</h4>
 
 <p align="center">
   <a href="https://github.com/rakiburrahman307">
@@ -18,24 +19,19 @@
   </a>
 </div>
 
----
-
 ### 👨‍💻 About Me
 
-Hello! I'm **Md. Rakibur Rahman**, a passionate developer with hands-on experience in **ReactJS, Node.js, MongoDB, and TypeScript**. In my journey through the realms of web development, each line of code tells a story—a narrative fueled by curiosity and a love for the art.
+Hi, I'm **Md. Rakibur Rahman**. I am a professional **Backend Developer** with **1 year of commercial experience**, currently working at **Spark Tech Agency**.
 
-As a **BSc graduate in Computer Science and Engineering**, I aspire to breathe life into ideas. Beyond coding, I'm here to collaborate on projects, redefine industry standards, and ride the dynamic wave of web development evolution.
+I specialize in building scalable server-side applications using **Node.js, TypeScript, and MongoDB**. My focus has shifted from general web development to **Backend Engineering** because I enjoy the challenge of structuring complex logic, optimizing database queries, and ensuring system reliability.
 
-Let's go beyond the ordinary together and create digital wonders that leave a lasting impression! **Unique by nature; creativity knows no bounds.**
+At **Spark Tech Agency**, I work on real-world production applications, collaborating with teams to deliver robust API architectures. I believe in writing clean, maintainable code and am constantly pushing myself to learn advanced system design patterns.
 
-- 🔭 I’m currently working on **High-Performance Backend Systems** & **[UniStayHub](https://unistayhub-hostel-manegement.netlify.app/)**.
-- 🌱 I’m currently learning **Advanced System Design, Microservices, and Docker**.
-- 🔮 My Future Plan is to master **NextJS** for full-stack supremacy.
-- 👯 I’m looking to collaborate on **Open Source Backend Tools**.
-- 💬 Ask me about **Web Development, REST APIs, and Database Architectures**.
-- ⚡ **Fun fact:** I'm on a mission to collect unique keyboard stickers from around the world, turning my coding workspace into a vibrant global masterpiece! 🌍⌨️
-
----
+- 🔭 **Current Work:** I’m building high-performance APIs at **Spark Tech Agency** and working on **[UniStayHub](https://unistayhub-hostel-manegement.netlify.app/)**.
+- 🌱 **Learning:** Currently diving deep into **Microservices, Docker, and Advanced System Design**.
+- 🔮 **Future Goal:** Mastering **NextJS** and cloud infrastructure to become a Lead Full Stack Engineer.
+- 💬 **Ask me about:** Backend Architecture, REST APIs, and Database Optimization.
+- ⚡ **Fun fact:** I collect unique keyboard stickers from around the world to turn my desk into a global masterpiece! 🌍⌨️
 
 ### 🛠️ Languages and Tools
 
@@ -90,5 +86,5 @@ Let's go beyond the ordinary together and create digital wonders that leave a la
 <a href="https://www.linkedin.com/in/rakibur-rahman-14b33a2a4" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rakibur-rahman" /></a>
 <a href="https://fb.com/rakiburrahman305" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="rakiburrahman305" /></a>
 <a href="https://instagram.com/rakibur_rahman_305" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rakibur_rahman_305" /></a>
-<a href="mailto:rakiburrahman307@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rakiburrahman307" /></a>
+<a href="mailto:rakiburrahman.dev@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rakiburrahman307" /></a>
 </p>
