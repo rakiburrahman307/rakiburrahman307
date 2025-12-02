@@ -1,71 +1,85 @@
-![logo](https://github.com/rakiburrahman307/rakiburrahman307/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner%20(2).png)
+![Banner](https://github.com/rakiburrahman307/rakiburrahman307/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner%20(2).png)
 
-<h1 align="center">Hi 👋, I'm Md.Rakibur Rahman</h1>
-<h3 align="center">Junior Web Developer 🇧🇩 | Turning dreams into code from Bangladesh | Adding a touch of Unicorn Magic</h3>
+<h1 align="center">Hi 👋, I'm Md. Rakibur Rahman</h1>
+<h3 align="center">Backend Developer | Node.js & TypeScript Specialist 🇧🇩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakiburrahman307&label=Profile%20views&color=0e75b6&style=flat" alt="rakiburrahman307" /> </p>
-
-## Description
-
-Hello! I'm Md.Rakibur Rahman, a passionate web developer with 6 months of hands-on experience in ReactJS, HTML, CSS, MongoDB, JavaScript, Node.js, Tealwind CSS, and Express.
-In my journey through the realms of web development, each line of code tells a story a narrative fueled by curiosity and love for the art. The thrill of endless possibilities keeps me engaged, even during the late hours.
-As a BSc graduate in Computer Science and Engineering, I aspire to breathe life into ideas. Beyond coding, I'm here to collaborate on projects, redefine industry standards, and ride the dynamic wave of web development evolution.
-Let's go beyond the ordinary together, let's create digital wonders that leave a lasting impression! Unic by nature; creativity knows no bounds.
-
-<h3 align="left">Project Live Preview</h3>
-🔭 I’m currently working on [UniStayHub](https://unistayhub-hostel-manegement.netlify.app/)
-
-
-- I’m also collaborate on [Job Swift](https://curious-starburst-d1ee83.netlify.app/)
-
--  My Previous project [Ethereal Autos](https://6533dbc842df062c581574d2--cool-gecko-ec8121.netlify.app/)
-
-<h3 align="left">Details</h3>
-
--  I’m currently learning **HTML, CSS, React, MongoDB, ExpressJs, Tailwind Css**
-
--  My Feature Plan to learn **NextJS**
-
--  All of my projects are available at [GitHub](https://github.com/rakiburrahman307?tab=repositories)
-
--  Ask me about **Wab Development**
-
--  How to reach me **rakiburrahman307@gmail.com**
-
--  Know about my experiences [Adding Later](Adding Later)
- 
--  Fun fact **I'm on a mission to collect unique keyboard stickers from around the world, turning my coding workspace into a vibrant global masterpiece!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rakibur-rahman-14b33a2a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakibur-rahman" height="30" width="40" /></a>
-
-<a href="https://fb.com/rakiburrahman305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakiburrahman305" height="30" width="40" /></a>
-
-<a href="https://instagram.com/rakibur_rahman_305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakibur_rahman_305" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/rakiburrahman307">
+    <img src="https://komarev.com/ghpvc/?username=rakiburrahman307&label=Profile%20Views&color=0e75b6&style=flat" alt="rakiburrahman307" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <b>Building scalable APIs, robust architectures, and turning complex logic into efficient code.</b>
+</p>
 
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakiburrahman307&show_icons=true&locale=en&layout=compact" />
-</a>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" alt="rakiburrahman307" /></p>
-</div>
-<div>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rakiburrahman307&show_icons=true&locale=en" />
-</a>
+---
+
+### 👨‍💻 About Me
+
+I am a passionate **Backend Developer** based in Bangladesh with a BSc in Computer Science and Engineering. While I started with the MERN stack, my core focus has shifted to building heavy-duty backend systems.
+
+I specialize in structuring server-side logic using **TypeScript**, creating automation tools (NPM packages), and integrating AI into applications. I love optimizing database queries and ensuring type safety across the entire application architecture.
+
+- 🔭 I’m currently building a **Smart Calendar System with AI Integration**.
+- 📦 I recently published an **NPM package** for automating backend file structures.
+- 🌱 I’m currently diving deep into **System Design** and **Microservices**.
+- 💬 Ask me about **REST APIs, MongoDB Aggregations, and TypeScript**.
+- 📫 Reach me at: **rakiburrahman307@gmail.com**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td style="border: none;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=rakiburrahman307&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Rakib's GitHub Stats" />
+      </td>
+      <td style="border: none;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakiburrahman307&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Rakib's Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakiburrahman307&theme=tokyonight&hide_border=true" alt="Rakib's Streak" />
 </div>
 
-<div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakiburrahman307&" alt="rakiburrahman307" /></p></div>
-<div>
-<p><img align="center" src="https://github.com/rakiburrahman307/rakiburrahman307/blob/main/github-wrapped.png" alt="rakiburrahman307" /></p>
-</div>
+---
 
+### 🚀 Highlighted Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Backend Scaffold CLI** | An NPM package that automates the creation of Models, Interfaces, Services, and Controllers to speed up development. | `Node.js` `NPM` `FileSystem` |
+| **Smart Calendar API** | A complex scheduling system featuring "Smart Notifications" that prioritize events based on urgency and user context. Includes AI Chatbot integration. | `TypeScript` `Express` `OpenAI API` |
+| **Movie Dashboard API** | Full backend architecture for a media management system including role-based authentication and advanced CRUD operations. | `MongoDB` `Mongoose` `Express` |
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/rakibur-rahman-14b33a2a4" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rakibur-rahman" /></a>
+<a href="https://fb.com/rakiburrahman305" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="rakiburrahman305" /></a>
+<a href="https://instagram.com/rakibur_rahman_305" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rakibur_rahman_305" /></a>
+</p>
 
 
 
