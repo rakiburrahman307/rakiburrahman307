@@ -64,30 +64,13 @@ At **Spark Tech Agency**, I work on real-world production applications, collabor
   </p>
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakiburrahman307&theme=dracula&utcOffset=6" width="45%" />
+    <img src="https:///github-profile-summary-cards.vercel.app/api/cards/stats?username=rakiburrahman307=default" width="45%" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakiburrahman307&theme=dracula&hide_border=true" width="45%" />
   </p>
 </div>
 
 ---
 
-### Github Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=rakiburrahman307&show_icons=true&hide_border=true" alt="Stats">
-
-  <br><br>
-
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=rakiburrahman307&layout=compact&hide_border=true" alt="Top Languages">
-
-  <br><br>
-
-  <img src="https://streak-stats.demolab.com?user=rakiburrahman307&hide_border=true" alt="Streak">
-
-</div>
-
-
----
 ### 🚀 Projects Showcase
 
 | Project | Description | Live Link |
