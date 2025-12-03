@@ -52,7 +52,7 @@ At **Spark Tech Agency**, I work on real-world production applications, collabor
 
 ---
 
-### 📊 Github Stats
+### 📊 Github graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakiburrahman307&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" alt="Activity Graph" />
@@ -70,6 +70,24 @@ At **Spark Tech Agency**, I work on real-world production applications, collabor
 
 ---
 
+### 📊 Github Stats
+
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td style="border: none;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=rakiburrahman307&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Rakib's GitHub Stats" />
+      </td>
+      <td style="border: none;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakiburrahman307&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Rakib's Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakiburrahman307&theme=tokyonight&hide_border=true" alt="Rakib's Streak" />
+</div>
+
+---
 ### 🚀 Projects Showcase
 
 | Project | Description | Live Link |
