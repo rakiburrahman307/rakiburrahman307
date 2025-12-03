@@ -70,21 +70,23 @@ At **Spark Tech Agency**, I work on real-world production applications, collabor
 
 ---
 
-### 📊 Github Stats
+### Github Stats
 
 <div align="center">
-  <table style="border: none;">
+  <table style="border: none">
     <tr>
-      <td style="border: none;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=rakiburrahman307&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Rakib's GitHub Stats" />
+      <td style="border: none">
+        <img src="https://github-readme-stats.vercel.app/api?username=rakiburrahman307&show_icons=true&hide_border=true" alt="GitHub Stats" />
       </td>
-      <td style="border: none;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakiburrahman307&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Rakib's Top Languages" />
+      <td style="border: none">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakiburrahman307&layout=compact&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakiburrahman307&theme=tokyonight&hide_border=true" alt="Rakib's Streak" />
+
+  <br />
+
+  <img src="https://streak-stats.demolab.com/?user=rakiburrahman307&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
