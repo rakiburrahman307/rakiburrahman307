@@ -73,21 +73,19 @@ At **Spark Tech Agency**, I work on real-world production applications, collabor
 ### Github Stats
 
 <div align="center">
-  <table style="border: none">
-    <tr>
-      <td style="border: none">
-        <img src="https://github-readme-stats.vercel.app/api?username=rakiburrahman307&show_icons=true&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td style="border: none">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakiburrahman307&layout=compact&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
 
-  <br />
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=rakiburrahman307&show_icons=true&hide_border=true" alt="Stats">
 
-  <img src="https://streak-stats.demolab.com/?user=rakiburrahman307&hide_border=true" alt="Streak Stats" />
+  <br><br>
+
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=rakiburrahman307&layout=compact&hide_border=true" alt="Top Languages">
+
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=rakiburrahman307&hide_border=true" alt="Streak">
+
 </div>
+
 
 ---
 ### 🚀 Projects Showcase
