@@ -59,17 +59,17 @@ At **Spark Tech Agency**, I work on real-world production applications, collabor
   <br/><br/>
   
   <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakiburrahman307&theme=darcula" width="45%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakiburrahman307&theme=darcula&hide_border=true" width="45%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakiburrahman307&theme=dark" width="45%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakiburrahman307&theme=dark&hide_border=true" width="45%" />
     <br><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakiburrahman307&theme=darcula" width="45%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakiburrahman307&theme=darcula" width="45%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakiburrahman307&theme=dark" width="45%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakiburrahman307&theme=dark" width="45%" />
     <br/><br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakiburrahman307&theme=darcula" width="45%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakiburrahman307&theme=darcula&utcOffset=6" width="45%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakiburrahman307&theme=dark" width="45%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakiburrahman307&theme=dark&utcOffset=6" width="45%" />
   </p>
   <p>
-    <img src="https:///github-profile-summary-cards.vercel.app/api/cards/stats?username=rakiburrahman307&theme=darcula" width="45%" />
+    <img src="https:///github-profile-summary-cards.vercel.app/api/cards/stats?username=rakiburrahman307&theme=dark" width="45%" />
     
   </p>
 </div>
