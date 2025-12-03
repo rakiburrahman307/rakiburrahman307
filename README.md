@@ -59,7 +59,7 @@ At **Spark Tech Agency**, I work on real-world production applications, collabor
   <br/><br/>
   
   <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakiburrahman307&ttheme=darcula" width="45%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakiburrahman307&theme=darcula" width="45%" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakiburrahman307&theme=darcula" width="45%" />
     <br/><br/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakiburrahman307&theme=darcula" width="45%" />
