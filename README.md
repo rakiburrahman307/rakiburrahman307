@@ -54,7 +54,7 @@ At **Spark Tech Agency**, I work on real-world production applications, collabor
 
 ### 📊 Github graph
 
-<div align="center">
+<div align="center" width="60%">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakiburrahman307&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" alt="Activity Graph" />
   <br/><br/>
   
