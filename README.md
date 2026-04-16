@@ -65,7 +65,7 @@ At **Spark Tech Agency**, I work on real-world production applications, collabor
 ### 📊 Github graph
 
 <div align="center" width="60%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakiburrahman307&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" alt="Activity Graph" />
+
   <br/><br/>
   
   <p>
@@ -80,8 +80,10 @@ At **Spark Tech Agency**, I work on real-world production applications, collabor
   </p>
   <p>
     <img src="https:///github-profile-summary-cards.vercel.app/api/cards/stats?username=rakiburrahman307&theme=darcula" width="45%" />
+    -->
     
-  </p> -->
+  </p> 
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakiburrahman307&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
