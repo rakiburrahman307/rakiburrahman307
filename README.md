@@ -83,7 +83,7 @@ At **Spark Tech Agency**, I work on real-world production applications, collabor
     -->
     
   </p> 
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakiburrahman307&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakiburrahman307&theme=react-dark&bg_color=0D1117&hide_border=true" width="60%" alt="Activity Graph" />
 </div>
 
 ---
