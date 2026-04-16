@@ -49,7 +49,17 @@ At **Spark Tech Agency**, I work on real-world production applications, collabor
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
   <a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> </a>
 </p>
-
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img  src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,redux,mui,tailwindcss" />
+    <br/>
+    <img  src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,html,css" />
+    <br/>
+    <img  src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+   
+  </a>
+</p>
 ---
 
 ### 📊 Github graph
