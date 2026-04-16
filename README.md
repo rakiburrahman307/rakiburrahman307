@@ -37,7 +37,7 @@ At **Spark Tech Agency**, I work on real-world production applications, collabor
 ---
 ### 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center" width="60%">
   <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /> </a>
   <a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express" /> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /> </a>
@@ -90,7 +90,7 @@ At **Spark Tech Agency**, I work on real-world production applications, collabor
 
 ### 🤝 Connect with me
 
-<p align="left">
+<p align="center" width="60%">
 <a href="https://www.linkedin.com/in/rakibur-rahman-14b33a2a4" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rakibur-rahman" /></a>
 <a href="https://fb.com/rakiburrahman305" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="rakiburrahman305" /></a>
 <a href="https://instagram.com/rakibur_rahman_305" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rakibur_rahman_305" /></a>
