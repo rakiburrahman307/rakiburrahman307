@@ -10,7 +10,7 @@
   </a>
 </p>
 
----
+
 
 ### 🏆 Achievements
 <div align="center">
@@ -19,7 +19,7 @@
   </a>
 </div>
 
----
+
 ### 👨‍💻 About Me
 
 Hi, I'm **Md. Rakibur Rahman**. I am a professional **Backend Developer** with **1 year of commercial experience**, currently working at **Spark Tech Agency**.
@@ -34,7 +34,7 @@ At **Spark Tech Agency**, I work on real-world production applications, collabor
 - 💬 **Ask me about:** Backend Architecture, REST APIs, and Database Optimization.
 - ⚡ **Fun fact:** I collect unique keyboard stickers from around the world to turn my desk into a global masterpiece! 🌍⌨️
 
----
+
 ### 🛠️ Languages and Tools
 
 <!-- <p align="center" width="60%">
@@ -60,7 +60,7 @@ At **Spark Tech Agency**, I work on real-world production applications, collabor
    
   </a>
 </p>
----
+
 
 ### 📊 Github graph
 
@@ -86,7 +86,7 @@ At **Spark Tech Agency**, I work on real-world production applications, collabor
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakiburrahman307&theme=react-dark&bg_color=0D1117&hide_border=true" width="60%" alt="Activity Graph" />
 </div>
 
----
+
 
 ### 🚀 Projects Showcase
 
@@ -98,7 +98,7 @@ At **Spark Tech Agency**, I work on real-world production applications, collabor
 | **Job Swift** | 💼 Job finding and application portal (Collaborator). | [Live Preview](https://curious-starburst-d1ee83.netlify.app/) |
 | **Ethereal Autos** | 🚗 Automotive showcase platform. | [Live Preview](https://6533dbc842df062c581574d2--cool-gecko-ec8121.netlify.app/) |
 
----
+
 
 ### 🤝 Connect with me
 
