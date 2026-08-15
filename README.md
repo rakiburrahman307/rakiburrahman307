@@ -34,7 +34,7 @@ My backend work centers on core system infrastructure and API design, including:
 - **Authentication & Authorization**: Multi-tier auth pipelines using JWT access tokens, HTTP-only refresh cookies, role hierarchy enforcement, and session revocation.
 - **Database Architecture**: PostgreSQL relational modeling, indexing, and transaction management; MongoDB schema validation, compound indexing, and aggregation pipelines.
 - **Caching & Rate Limiting**: In-memory caching with Redis to reduce database read pressure and sliding-window rate limiting to prevent API abuse.
-- **Payment & Subscription Infrastructure**: Integration with Stripe and PayFast APIs, secure webhook verification, event signature checking, and recurring billing handlers.
+- **Payment & Multi-Platform Subscriptions**: Integration with Stripe, PayFast, Apple In-App Purchases (`node-apple-receipt-verify`), and Google Play Billing APIs.
 - **Real-Time Communication**: Bidirectional messaging and event streaming via Socket.IO, structured into dedicated server rooms and channel broadcast patterns.
 - **Media & Storage Engineering**: Video transcribing (`fluent-ffmpeg`), asynchronous multi-part uploads, AWS S3 presigned transfers, and BunnyCDN CDN integration.
 - **Reliability & Validation**: Asynchronous background task processing (BullMQ), centralized exception middleware, operational logs (Winston), and Zod request validation.
@@ -74,6 +74,8 @@ My backend work centers on core system infrastructure and API design, including:
 #### Cloud & Third-Party Services
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Apple App Store](https://img.shields.io/badge/Apple_IAP-000000?style=flat-square&logo=apple&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
@@ -85,11 +87,11 @@ My backend work centers on core system infrastructure and API design, including:
 
 #### 🧘 Yoga With Jen
 **On-Demand Fitness Platform & Media Streaming Backend**
-- **Focus**: High-volume video delivery, subscription engine, Apple receipt validation, and background queues.
-- **Stack**: Node.js, Express.js, TypeScript, MongoDB, Redis, BullMQ, AWS S3, BunnyCDN, Stripe, Twilio
+- **Focus**: High-volume video delivery, multi-platform subscriptions (Stripe, Apple & Google Play), and background queues.
+- **Stack**: Node.js, Express.js, TypeScript, MongoDB, Redis, BullMQ, AWS S3, BunnyCDN, Stripe, Google APIs, Twilio
 - **Engineering Highlights**:
   - Engineered scalable media storage and video streaming delivery integration using BunnyCDN and AWS S3 signed URLs.
-  - Implemented multi-channel subscription lifecycle handling with Stripe webhook listeners and Apple receipt verification.
+  - Architected multi-platform subscription handling integrating Stripe webhooks, Apple receipt verification (`node-apple-receipt-verify`), and Google Play Billing APIs.
   - Offloaded async notification dispatches and background user sessions using BullMQ worker queues and Redis adapters.
 
 #### ⚙️ ENG Backend System
@@ -126,8 +128,8 @@ My backend work centers on core system infrastructure and API design, including:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rakiburrahman307&theme=react-dark&bg_color=0D1117&hide_border=true)
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rakiburrahman307&show_icons=true&theme=dark&hide_border=true" alt="Rakibur's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rakiburrahman307&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakiburrahman307&theme=github_dark" alt="Rakibur's GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakiburrahman307&theme=github_dark" alt="Top Commit Languages" width="48%" />
 </p>
 
 ---
