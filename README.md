@@ -123,9 +123,11 @@ My backend work centers on core system infrastructure and API design, including:
 
 ### 📊 GitHub Activity
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rakiburrahman307&theme=react-dark&bg_color=0D1117&hide_border=true)
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakiburrahman307&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Rakibur's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakiburrahman307&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rakiburrahman307&show_icons=true&theme=dark&hide_border=true" alt="Rakibur's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rakiburrahman307&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
