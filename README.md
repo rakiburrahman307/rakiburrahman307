@@ -4,32 +4,31 @@
 
 **Backend Engineer | Full Stack Engineer | Node.js & TypeScript Specialist**
 
-Building scalable server-side systems, resilient API architectures, and maintainable web applications with a focus on performance, security, and production readiness.
+Building scalable server-side systems, resilient API architectures, and modern full-stack web applications with a focus on performance, security, and production readiness.
 
 ---
 
 ### 👨‍💻 About
 
-I am a Backend and Full Stack Engineer specializing in Node.js and TypeScript ecosystems, currently building production APIs at **Spark Tech Agency**. My core focus is designing structured server-side systems, efficient database schemas, secure authentication mechanisms, and reliable real-time communication channels.
+I am a Backend and Full Stack Engineer specializing in Node.js, TypeScript, Next.js, and React ecosystems, currently building production APIs and enterprise admin dashboards at **Spark Tech Agency**. My core focus is designing structured server-side systems, efficient database schemas, secure authentication mechanisms, and responsive client-side interfaces.
 
-I emphasize building software with clear boundaries, predictable state management, comprehensive runtime validation, and scalable database design—ensuring applications remain maintainable as system complexity grows.
+I emphasize building end-to-end software with clear boundaries, predictable state management, comprehensive runtime validation, and scalable database design—ensuring applications remain maintainable as system complexity grows.
 
 ---
 
 ### 💡 Engineering Principles
 
-- **Clean Architecture & Separation of Concerns**: Decoupling HTTP handlers, business logic, and database access layers using service abstractions to ensure testability and maintenance clarity.
-- **Defensive Validation & Type Safety**: Enforcing strict type boundaries with TypeScript and validating incoming requests at the API edge using Zod schema definitions.
-- **Security-First Design**: Implementing robust authentication pipelines with short-lived JWTs, token rotation, password hashing, and granular Role-Based Access Control (RBAC).
+- **Clean Architecture & Separation of Concerns**: Decoupling HTTP handlers, business logic, and database access layers using service abstractions, paired with modular component structures on the frontend.
+- **Defensive Validation & Type Safety**: Enforcing strict type boundaries end-to-end with TypeScript and validating data contracts at both API boundaries and form inputs using Zod.
+- **Security-First Design**: Implementing robust authentication pipelines with short-lived JWTs, token rotation, HTTP-only cookie storage, and granular Role-Based Access Control (RBAC).
 - **Data Modeling & Query Optimization**: Designing normalized relational tables (PostgreSQL) and optimized document schemas (MongoDB), backed by Redis caching strategies for high-frequency operations.
-- **Resilient Integration & Fail-Safe Workflows**: Handling third-party webhooks (e.g., Stripe, PayFast) idempotently, managing connection lifecycles, and centralizing error handling across all API routes.
+- **Resilient Integration & Component Design**: Handling third-party webhooks idempotently, managing real-time WebSockets, and building accessible UI design systems with Next.js, React, and Tailwind CSS.
 
 ---
 
-### ⚙️ Backend Engineering
+### ⚙️ Technical Capabilities
 
-My backend work centers on core system infrastructure and API design, including:
-
+#### Backend Engineering
 - **RESTful & gRPC API Architecture**: Designing consistent API contracts, custom route middleware, gRPC protocol buffers, pagination, and standardized error payloads.
 - **Authentication & Authorization**: Multi-tier auth pipelines using JWT access tokens, HTTP-only refresh cookies, role hierarchy enforcement, and session revocation.
 - **Database Architecture**: PostgreSQL relational modeling, indexing, and transaction management; MongoDB schema validation, compound indexing, and aggregation pipelines.
@@ -37,7 +36,13 @@ My backend work centers on core system infrastructure and API design, including:
 - **Payment & Multi-Platform Subscriptions**: Integration with Stripe, PayFast, Apple In-App Purchases (`node-apple-receipt-verify`), and Google Play Billing APIs.
 - **Real-Time Communication**: Bidirectional messaging and event streaming via Socket.IO, structured into dedicated server rooms and channel broadcast patterns.
 - **Media & Storage Engineering**: Video transcribing (`fluent-ffmpeg`), asynchronous multi-part uploads, AWS S3 presigned transfers, and BunnyCDN CDN integration.
-- **Reliability & Validation**: Asynchronous background task processing (BullMQ), centralized exception middleware, operational logs (Winston), and Zod request validation.
+- **Reliability & Background Jobs**: Asynchronous background task processing (BullMQ), centralized exception middleware, operational logging (Winston), and Zod request validation.
+
+#### Frontend Engineering
+- **Modern Full-Stack Applications**: Building SSR/SSG web applications and interactive SPAs using Next.js (App Router), React 19/18, TypeScript, and Vite.
+- **Global State Management**: Managing complex client state and persistent sessions using Redux Toolkit (`@reduxjs/toolkit`), Redux Persist, and React Context.
+- **Data Visualization & Dashboards**: Constructing analytics dashboards with interactive charting (Recharts), complex data tables (TanStack Table with sorting & server-side pagination), and responsive UI layouts.
+- **Form Workflows & UI Design Systems**: Building accessible interface systems with Radix UI, Tailwind CSS, Framer Motion animations, React Hook Form, and TipTap rich-text editing.
 
 ---
 
@@ -47,6 +52,16 @@ My backend work centers on core system infrastructure and API design, including:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
+
+#### Frontend & UI
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
+![TanStack Table](https://img.shields.io/badge/TanStack_Table-FF4154?style=flat-square&logo=reacttable&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 #### Backend & Frameworks
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -85,6 +100,15 @@ My backend work centers on core system infrastructure and API design, including:
 
 ### 🚀 Featured Projects
 
+#### 📊 ENG Admin & Enterprise Dashboard
+**Full-Stack Management System & Analytics Portal**
+- **Focus**: High-performance dashboard UI, server-side data tables, complex state management, and analytics visualization.
+- **Stack**: Next.js 15, React 19, TypeScript, Redux Toolkit, TanStack Table, Tailwind CSS, Recharts, Framer Motion
+- **Engineering Highlights**:
+  - Built enterprise analytics dashboard utilizing Next.js 15 App Router and React 19 concurrent features.
+  - Implemented server-side paginated data tables using TanStack Table integrated with Redux Toolkit state persistence.
+  - Constructed interactive metric charts and real-time report summaries with Recharts and customized Radix UI components.
+
 #### 🧘 Yoga With Jen
 **On-Demand Fitness Platform & Media Streaming Backend**
 - **Focus**: High-volume video delivery, multi-platform subscriptions (Stripe, Apple & Google Play), and background queues.
@@ -103,23 +127,14 @@ My backend work centers on core system infrastructure and API design, including:
   - Developed automated media processing pipelines utilizing `fluent-ffmpeg` for video encoding paired with AWS S3 presigned uploads.
   - Configured distributed background queues via BullMQ and Redis for event telemetry, email delivery (Brevo), and transactional billing.
 
-#### 🧟 Creepy Backend
-**Real-Time Event & Interactive Streaming Engine**
-- **Focus**: High-throughput Socket.IO rooms, token security, rate limiting, and modular service patterns.
-- **Stack**: Node.js, Express.js, TypeScript, MongoDB, Redis, Socket.IO, JWT, Zod
-- **Engineering Highlights**:
-  - Developed bidirectional event streaming channels utilizing Socket.IO room namespaces and Redis socket adapters.
-  - Enforced defensive payload validation middleware with Zod alongside sliding-window rate limiting for protection against abuse.
-  - Structured modular Controller-Service-Repository architecture ensuring clean separation of business logic and transport protocols.
-
-#### 💳 Corniel Swanepoel Backend
-**Multi-Gateway Recurring Billing & Subscription Infrastructure**
-- **Focus**: Multi-gateway payment handling (PayFast & Stripe), job scheduling, telemetry dashboards, and Docker deployment.
-- **Stack**: Node.js, Express.js, TypeScript, MongoDB, Redis, BullMQ, PayFast, Stripe, Resend, Docker
+#### 💳 Corniel Swanepoel Infrastructure
+**Multi-Gateway Billing & Admin Dashboard Platform**
+- **Focus**: Full-stack admin management, multi-gateway payments (PayFast & Stripe), job scheduling, and Docker deployment.
+- **Stack**: React, Next.js, Node.js, Express.js, TypeScript, MongoDB, Redis, BullMQ, PayFast, Stripe, Docker
 - **Engineering Highlights**:
   - Integrated dual payment processing gateways (PayFast & Stripe) with signature verification and idempotent webhook handlers.
   - Configured real-time queue monitoring dashboards using BullMQ and `@bull-board/express` for worker health metrics telemetry.
-  - Containerized Redis cache and task queue infrastructure with Docker Compose for consistent local and production parity.
+  - Developed administrative frontend interface paired with containerized Redis cache and task queue infrastructure.
 
 ---
 
