@@ -1,115 +1,139 @@
-![Banner](https://github.com/rakiburrahman307/rakiburrahman307/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner%20(2).png)
+![Header Banner](Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner%20(2).png)
 
-<h1 align="center">Hi 👋, I'm Md. Rakibur Rahman</h1>
-<h3 align="center">Backend Developer | Node.js & TypeScript Specialist</h3>
-<h4 align="center">Forging robust backend architectures with precision and logic 🚀</h4>
+# Md. Rakibur Rahman
 
-<p align="center">
-  <a href="https://github.com/rakiburrahman307">
-    <img src="https://komarev.com/ghpvc/?username=rakiburrahman307&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="rakiburrahman307" />
-  </a>
+**Backend Engineer | Full Stack Engineer | Node.js & TypeScript Specialist**
+
+Building scalable server-side systems, resilient API architectures, and maintainable web applications with a focus on performance, security, and production readiness.
+
+---
+
+### 👨‍💻 About
+
+I am a Backend and Full Stack Engineer specializing in Node.js and TypeScript ecosystems, currently building production APIs at **Spark Tech Agency**. My core focus is designing structured server-side systems, efficient database schemas, secure authentication mechanisms, and reliable real-time communication channels.
+
+I emphasize building software with clear boundaries, predictable state management, comprehensive runtime validation, and scalable database design—ensuring applications remain maintainable as system complexity grows.
+
+---
+
+### 💡 Engineering Principles
+
+- **Clean Architecture & Separation of Concerns**: Decoupling HTTP handlers, business logic, and database access layers using service abstractions to ensure testability and maintenance clarity.
+- **Defensive Validation & Type Safety**: Enforcing strict type boundaries with TypeScript and validating incoming requests at the API edge using Zod schema definitions.
+- **Security-First Design**: Implementing robust authentication pipelines with short-lived JWTs, token rotation, password hashing, and granular Role-Based Access Control (RBAC).
+- **Data Modeling & Query Optimization**: Designing normalized relational tables (PostgreSQL) and optimized document schemas (MongoDB), backed by Redis caching strategies for high-frequency operations.
+- **Resilient Integration & Fail-Safe Workflows**: Handling third-party webhooks (e.g., Stripe, PayFast) idempotently, managing connection lifecycles, and centralizing error handling across all API routes.
+
+---
+
+### ⚙️ Backend Engineering
+
+My backend work centers on core system infrastructure and API design, including:
+
+- **RESTful & gRPC API Architecture**: Designing consistent API contracts, custom route middleware, gRPC protocol buffers, pagination, and standardized error payloads.
+- **Authentication & Authorization**: Multi-tier auth pipelines using JWT access tokens, HTTP-only refresh cookies, role hierarchy enforcement, and session revocation.
+- **Database Architecture**: PostgreSQL relational modeling, indexing, and transaction management; MongoDB schema validation, compound indexing, and aggregation pipelines.
+- **Caching & Rate Limiting**: In-memory caching with Redis to reduce database read pressure and sliding-window rate limiting to prevent API abuse.
+- **Payment & Subscription Infrastructure**: Integration with Stripe and PayFast APIs, secure webhook verification, event signature checking, and recurring billing handlers.
+- **Real-Time Communication**: Bidirectional messaging and event streaming via Socket.IO, structured into dedicated server rooms and channel broadcast patterns.
+- **Media & Storage Engineering**: Video transcribing (`fluent-ffmpeg`), asynchronous multi-part uploads, AWS S3 presigned transfers, and BunnyCDN CDN integration.
+- **Reliability & Validation**: Asynchronous background task processing (BullMQ), centralized exception middleware, operational logs (Winston), and Zod request validation.
+
+---
+
+### 🛠️ Tech Stack
+
+#### Languages & Core
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
+
+#### Backend & Frameworks
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0055E6?style=flat-square&logo=json&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-CC3534?style=flat-square&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+
+#### Databases & In-Memory Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+#### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+#### Cloud & Third-Party Services
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🧘 Yoga With Jen
+**On-Demand Fitness Platform & Media Streaming Backend**
+- **Focus**: High-volume video delivery, subscription engine, Apple receipt validation, and background queues.
+- **Stack**: Node.js, Express.js, TypeScript, MongoDB, Redis, BullMQ, AWS S3, BunnyCDN, Stripe, Twilio
+- **Engineering Highlights**:
+  - Engineered scalable media storage and video streaming delivery integration using BunnyCDN and AWS S3 signed URLs.
+  - Implemented multi-channel subscription lifecycle handling with Stripe webhook listeners and Apple receipt verification.
+  - Offloaded async notification dispatches and background user sessions using BullMQ worker queues and Redis adapters.
+
+#### ⚙️ ENG Backend System
+**Enterprise Microservices & Media Processing Infrastructure**
+- **Focus**: Multi-protocol API services (gRPC & REST), video encoding pipelines, S3 transfers, and email automation.
+- **Stack**: Node.js, Express.js (v5), TypeScript, gRPC, Mongoose, Redis, BullMQ, AWS S3, Stripe, Fluent-FFmpeg, Brevo
+- **Engineering Highlights**:
+  - Architected dual REST and gRPC communication layers (`@grpc/grpc-js`, `protobufjs`) for high-speed inter-service requests.
+  - Developed automated media processing pipelines utilizing `fluent-ffmpeg` for video encoding paired with AWS S3 presigned uploads.
+  - Configured distributed background queues via BullMQ and Redis for event telemetry, email delivery (Brevo), and transactional billing.
+
+#### 🧟 Creepy Backend
+**Real-Time Event & Interactive Streaming Engine**
+- **Focus**: High-throughput Socket.IO rooms, token security, rate limiting, and modular service patterns.
+- **Stack**: Node.js, Express.js, TypeScript, MongoDB, Redis, Socket.IO, JWT, Zod
+- **Engineering Highlights**:
+  - Developed bidirectional event streaming channels utilizing Socket.IO room namespaces and Redis socket adapters.
+  - Enforced defensive payload validation middleware with Zod alongside sliding-window rate limiting for protection against abuse.
+  - Structured modular Controller-Service-Repository architecture ensuring clean separation of business logic and transport protocols.
+
+#### 💳 Corniel Swanepoel Backend
+**Multi-Gateway Recurring Billing & Subscription Infrastructure**
+- **Focus**: Multi-gateway payment handling (PayFast & Stripe), job scheduling, telemetry dashboards, and Docker deployment.
+- **Stack**: Node.js, Express.js, TypeScript, MongoDB, Redis, BullMQ, PayFast, Stripe, Resend, Docker
+- **Engineering Highlights**:
+  - Integrated dual payment processing gateways (PayFast & Stripe) with signature verification and idempotent webhook handlers.
+  - Configured real-time queue monitoring dashboards using BullMQ and `@bull-board/express` for worker health metrics telemetry.
+  - Containerized Redis cache and task queue infrastructure with Docker Compose for consistent local and production parity.
+
+---
+
+### 📊 GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakiburrahman307&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Rakibur's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakiburrahman307&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
+---
 
+### 📬 Contact & Links
 
-### 🏆 Achievements
-<div align="center">
-  <a href="https://github.com/rakiburrahman307">
-    <img src="https://github-profile-trophy.vercel.app/?username=rakiburrahman307&theme=git_dark&no-bg=true&margin-w=15&margin-h=15&row=1" alt="rakiburrahman307" />
-  </a>
-</div>
-
-
-### 👨‍💻 About Me
-
-Hi, I'm **Md. Rakibur Rahman**. I am a professional **Backend Developer** with **1 year of commercial experience**, currently working at **Spark Tech Agency**.
-
-I specialize in building scalable server-side applications using **Node.js, TypeScript, and MongoDB**. My focus has shifted from general web development to **Backend Engineering** because I enjoy the challenge of structuring complex logic, optimizing database queries, and ensuring system reliability.
-
-At **Spark Tech Agency**, I work on real-world production applications, collaborating with teams to deliver robust API architectures. I believe in writing clean, maintainable code and am constantly pushing myself to learn advanced system design patterns.
-
-- 🔭 **Current Work:** I’m building high-performance APIs at **Spark Tech Agency** and working on **[UniStayHub](https://unistayhub-hostel-manegement.netlify.app/)**.
-- 🌱 **Learning:** Currently diving deep into **Microservices, Docker, and Advanced System Design**.
-- 🔮 **Future Goal:** Mastering **NextJS** and cloud infrastructure to become a Lead Full Stack Engineer.
-- 💬 **Ask me about:** Backend Architecture, REST APIs, and Database Optimization.
-- ⚡ **Fun fact:** I collect unique keyboard stickers from around the world to turn my desk into a global masterpiece! 🌍⌨️
-
-
-### 🛠️ Languages and Tools
-
-<!-- <p align="center" width="60%">
-  <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /> </a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express" /> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a>
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" /> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" /> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
-  <a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> </a>
-</p> -->
-<br/>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img  src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,redux,mui,tailwindcss" />
-    <br/>
-    <img  src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,html,css" />
-    <br/>
-    <img  src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-   
-  </a>
-</p>
-
-
-### 📊 Github graph
-
-<div align="center" width="60%">
-
-  <br/><br/>
-  
-  <p>
-    <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakiburrahman307&theme=darcula" width="45%" /> -->
-    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakiburrahman307&theme=darcula&hide_border=true" align="center" width="60%" /> -->
-    <p align="center">
-   <a  href="https://github.com/rakiburrahman307" >
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakiburrahman307&theme=algolia" alt="GitHub Stats" />
- </a>
-</p>
-    <!-- <br><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakiburrahman307&theme=darcula" width="45%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakiburrahman307&theme=darcula" width="45%" />
-    <br/><br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakiburrahman307&theme=darcula" width="45%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakiburrahman307&theme=darcula&utcOffset=6" width="45%" />
-  </p>
-  <p>
-    <img src="https:///github-profile-summary-cards.vercel.app/api/cards/stats?username=rakiburrahman307&theme=darcula" width="45%" />
-    -->
-    
-  </p> 
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakiburrahman307&theme=react-dark&bg_color=0D1117&hide_border=true" width="60%" alt="Activity Graph" />
-</div>
-
-
-
-### 🚀 Projects Showcase
-
-| Project | Description | Live Link |
-| :--- | :--- | :--- |
-| **Backend Scaffold CLI** | 🏗️ An NPM package to automate creating backend architectures (Models, Controllers, Services). | [Code](https://github.com/rakiburrahman307?tab=repositories) |
-| **Smart Calendar API** | 📅 Advanced scheduling system with AI Chatbot integration and Smart Notifications. | [Code](https://github.com/rakiburrahman307?tab=repositories) |
-| **UniStayHub** | 🏢 A Hostel Management System. | [Live Preview](https://unistayhub-hostel-manegement.netlify.app/) |
-| **Job Swift** | 💼 Job finding and application portal (Collaborator). | [Live Preview](https://curious-starburst-d1ee83.netlify.app/) |
-| **Ethereal Autos** | 🚗 Automotive showcase platform. | [Live Preview](https://6533dbc842df062c581574d2--cool-gecko-ec8121.netlify.app/) |
-
-
-
-### 🤝 Connect with me
-
-<p align="center" width="60%">
-<a href="https://www.linkedin.com/in/rakibur-rahman-14b33a2a4" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rakibur-rahman" /></a>
-<a href="https://fb.com/rakiburrahman305" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="rakiburrahman305" /></a>
-<a href="https://instagram.com/rakibur_rahman_305" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rakibur_rahman_305" /></a>
-<a href="mailto:rakiburrahman.dev@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rakiburrahman307" /></a>
-</p>
+- **LinkedIn**: [linkedin.com/in/rakibur-rahman-14b33a2a4](https://www.linkedin.com/in/rakibur-rahman-14b33a2a4)
+- **Email**: [rakiburrahman.dev@gmail.com](mailto:rakiburrahman.dev@gmail.com)
+- **GitHub**: [github.com/rakiburrahman307](https://github.com/rakiburrahman307)
+- **Facebook**: [facebook.com/rakiburrahman305](https://fb.com/rakiburrahman305)
+- **Instagram**: [instagram.com/rakibur_rahman_305](https://instagram.com/rakibur_rahman_305)
