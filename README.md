@@ -1,4 +1,4 @@
-![Header Banner](Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner%20(2).png)
+![Header Banner](github.png)
 
 # Md. Rakibur Rahman
 
