@@ -3,13 +3,13 @@
 # Md. Rakibur Rahman
 
 **Backend-Focused Full-Stack Software Engineer**  
-*Building resilient server-side architectures, high-throughput data pipelines, and mission-critical full-stack applications.*
+*Building resilient server-side architectures, high-throughput media pipelines, and mission-critical production web systems.*
 
 ---
 
 ## ⚡ Executive Summary
 
-I am a **Backend-Focused Full-Stack Software Engineer** specializing in the **Node.js, TypeScript, Express, Next.js, and React** ecosystems. Currently engineering production backend architectures and enterprise management systems at **Spark Tech Agency**, my work centers on designing fault-tolerant REST and RPC APIs, scalable database schemas, idempotent billing pipelines, and responsive real-time distributed services.
+I am a **Backend-Focused Full-Stack Software Engineer** specializing in the **Node.js, TypeScript, Express, Next.js, and React** ecosystems. Currently engineering production backend architectures and enterprise management systems at **Spark Tech Agency**, my work centers on designing fault-tolerant REST and RPC APIs, scalable database schemas, multi-gateway billing pipelines, and responsive real-time distributed services.
 
 My engineering philosophy prioritizes **clean boundaries, strict type contracts, defensible database design, and end-to-end security**. I build software designed to withstand operational scale—decoupling business logic from HTTP transports, automating asynchronous workloads through distributed queues, and ensuring high observability across every layer.
 
@@ -19,7 +19,7 @@ My engineering philosophy prioritizes **clean boundaries, strict type contracts,
 
 - **Clean Architecture & Domain Separation:** Decoupled service layers, clear domain boundaries, and modular controller-service-repository patterns that keep large-scale codebases maintainable.
 - **Defensive Type Safety & Contract Validation:** End-to-end type soundness with TypeScript and runtime boundary enforcement using Zod schemas at both HTTP and inter-service layers.
-- **Financial & Idempotent Transactions:** Resilient multi-gateway payment integrations (Stripe, Stripe Connect, PayFast, Apple IAP, Google Play) equipped with webhook verification and atomic state updates.
+- **Financial & Idempotent Transactions:** Resilient multi-gateway payment integrations (Stripe, Stripe Connect, PayFast, Apple In-App Purchases, Google Play) equipped with webhook verification and atomic state updates.
 - **Distributed Queues & Background Processing:** Offloading intensive workloads (video transcoding, push notifications, batch emails, payment reconciliations) via BullMQ worker clusters and Redis.
 - **Security-First Engineering:** Robust authentication pipelines leveraging short-lived JWTs, HTTP-only refresh cookies, sliding-window rate limiting, Helmet hardening, and role-based access control (RBAC).
 - **Relational & Document Data Modeling:** High-performance database designs spanning normalized PostgreSQL schemas, optimized MongoDB collections with aggregation pipelines, and strategic Redis caching.
@@ -82,7 +82,9 @@ My engineering philosophy prioritizes **clean boundaries, strict type contracts,
 ### 1. ENG Sports Infrastructure & Enterprise Ecosystem
 > **Production Sports League Platform, Media Transcoding Pipeline & Admin Dashboard**
 
-- **Source Code**: [Backend API Repository](https://github.com/rakiburrahman307/eng-backend) | [Enterprise Dashboard Repository](https://github.com/pranab56/eng-dashboard)
+- **Status**: **Live in Production**
+- **Live Demonstrations**: [Admin Portal](https://admin.engsportsevents.co.uk) | [Production API](https://api.engsportsevents.co.uk)
+- **Source Code**: [Backend Repository](https://github.com/rakiburrahman307/eng-backend) | [Enterprise Dashboard Repository](https://github.com/pranab56/eng-dashboard)
 - **Primary Technologies**: Node.js, Express, TypeScript, Next.js 15, React 19, MongoDB (Mongoose), Redis, BullMQ, Socket.IO, AWS S3, Fluent-FFmpeg, Stripe, Brevo, Firebase Admin (FCM), Redux Toolkit, TanStack Table.
 - **The Problem**: Coordinating multi-tier sports leagues, tournament brackets, player transfers, and video broadcasts requires synchronized real-time state, high-throughput asynchronous video processing, and a low-latency administration dashboard for match officials.
 - **Architectural Implementation**:
@@ -94,9 +96,41 @@ My engineering philosophy prioritizes **clean boundaries, strict type contracts,
 
 ---
 
-### 2. Loan Management & Financial Servicing Platform
+### 2. Creepy Shorts — Video Streaming Platform & Content Engine
+> **High-Performance Video-on-Demand Platform, Bunny Stream CDN & Multi-Store Billing**
+
+- **Status**: **Live in Production**
+- **Live Demonstrations**: [Web Platform](https://creepy-shorts.com) | [Production API](https://api.creepy-shorts.com)
+- **Source Code**: [Backend Repository](https://github.com/rakiburrahman307/creepy-backend)
+- **Primary Technologies**: Node.js, Express, TypeScript, MongoDB (Mongoose), Redis, BullMQ, BunnyCDN Storage & Stream, Stripe, Apple In-App Purchase Verification (`node-apple-receipt-verify`), Socket.IO, Passport.js OAuth2, Winston, Zod.
+- **The Problem**: High-concurrency video entertainment platforms require resilient video delivery networks with zero-buffer streaming, strict subscriber entitlements across Web and iOS stores, and real-time interaction (chat, comments, watch bookmarks).
+- **Architectural Implementation**:
+  - **Global Media Delivery & CDN Integration**: Integrated BunnyCDN Storage and Bunny Stream pull-zones for automated transcoding and secure, distributed edge video delivery.
+  - **Cross-Platform Entitlements & Billing**: Integrated dual subscription billing channels coordinating Stripe recurring webhooks and Apple App Store receipt validation (`node-apple-receipt-verify`).
+  - **Real-Time Community & User Activity**: Engineered Socket.IO bidirectional channels for interactive messaging, paired with Redis caching for user viewing history, watch reminders, and content bookmarks.
+  - **Security & OAuth Pipeline**: Configured Passport.js with Google and Facebook OAuth 2.0 flows, sliding-window rate limiting, and Winston structured log rotation.
+
+---
+
+### 3. Yoga With Jen — Fitness Streaming & Global Subscription Platform
+> **Production On-Demand Video Fitness Architecture & Recurring Billing**
+
+- **Status**: **Live in Production**
+- **Live Demonstrations**: [Web App](https://app.yogawithjen.life) | [Production API](https://api.yogawithjen.life)
+- **Source Code**: *Client codebase under NDA* (Ref: `yoga-with-jen-backend`)
+- **Primary Technologies**: Node.js, Express, TypeScript, MongoDB (Mongoose), Redis, BullMQ, BunnyCDN, AWS S3, Stripe Webhooks, Apple IAP, Google Play Billing, Twilio.
+- **The Problem**: Providing low-latency video streaming to global subscribers while managing multi-store subscription lifecycles, user sessions, and localized scheduling without service interruptions.
+- **Architectural Implementation**:
+  - **Multi-Store Subscription Synchronization**: Unified recurring billing across Stripe, Apple App Store, and Google Play Billing APIs with idempotent webhook processing.
+  - **Resilient Video Streaming**: Implemented multi-part uploads with AWS S3 signed URLs and BunnyCDN edge caching.
+  - **Task Queue Pipelines**: Delegated transactional email delivery, push notifications, and daily subscriber renewals to BullMQ workers backed by Redis.
+
+---
+
+### 4. Loan Management & Financial Servicing Platform
 > **Multi-Party Loan Origination, Borrower Servicing & Automated Payout Engine**
 
+- **Status**: **Client Project — Staging / Pre-Production**
 - **Source Code**: [Backend Repository](https://github.com/rakiburrahman307/loan-management-backend)
 - **Primary Technologies**: Node.js, Express, TypeScript, MongoDB (Mongoose), Redis, BullMQ, Stripe & Stripe Connect, Passport.js (OAuth2 + JWT), Winston, Zod, Helmet.
 - **The Problem**: Loan origination platforms demand airtight security, strict audit logging, automated multi-step repayment schedules, and programmatic escrow disbursements while preventing double-charges and race conditions.
@@ -108,9 +142,10 @@ My engineering philosophy prioritizes **clean boundaries, strict type contracts,
 
 ---
 
-### 3. University Academic Management Architecture
+### 5. University Academic Management Architecture
 > **Relational Domain-Driven Academic ERP & Curriculum Engine**
 
+- **Status**: **Open-Source Architectural Reference**
 - **Source Code**: [Backend Repository](https://github.com/rakiburrahman307/university-backend-ts)
 - **Primary Technologies**: Node.js, Express, TypeScript, MongoDB (Mongoose), Zod, JWT, Cloudinary, Multer, Nodemailer.
 - **The Problem**: Managing academic institutions involves intricate dependency graphs: prerequisite course verification, multi-semester registration windows, faculty-department hierarchies, and role-segregated administrative access.
@@ -118,20 +153,6 @@ My engineering philosophy prioritizes **clean boundaries, strict type contracts,
   - **Formal Domain Modeling**: Produced comprehensive Entity-Relationship (ER) schemas and requirement specifications detailing relational hierarchies across Users, Faculties, Departments, Courses, and Semesters.
   - **Transaction-Safe Operations**: Structured course enrollment algorithms preventing over-subscription and enforcing prerequisite completion before course assignment.
   - **Documented API Surface**: Authored complete Postman API collections and architectural documentation, ensuring uniform REST response envelopes and centralized global error handling.
-
----
-
-### 4. Production Client Platforms (Spark Tech Agency)
-
-#### 🧘 Yoga With Jen — On-Demand Media Streaming & Multi-Store Billing
-*Production fitness streaming platform serving global subscribers.*
-- **Key Engineering**: Engineered high-volume media streaming integration leveraging BunnyCDN and AWS S3 presigned URLs. Architected multi-platform recurring billing coordinating Stripe Webhooks, Apple In-App Purchase receipt verification (`node-apple-receipt-verify`), and Google Play Billing APIs. Dispatched asynchronous notification queues via BullMQ and Redis.
-- *Repository status: Private client codebase under NDA.*
-
-#### 💳 Corniel Swanepoel — Multi-Gateway Financial Infrastructure
-*Enterprise management platform and international payment gateway integration.*
-- **Key Engineering**: Engineered dual payment gateway integrations (PayFast and Stripe) with signature validation and idempotent webhook listeners. Implemented BullMQ queue health telemetry via `@bull-board/express` and established containerized Redis caching workflows.
-- *Repository status: Private client codebase under NDA.*
 
 ---
 
@@ -159,7 +180,7 @@ My engineering philosophy prioritizes **clean boundaries, strict type contracts,
           │                           [ MongoDB / PG ]   [ Redis Cache ]
           │                                                   │
           └──► [ Distributed Worker Clusters (BullMQ) ] ◄─────┘
-                ├── Video Encoding (FFmpeg)
+                ├── Video Encoding (FFmpeg / Bunny Stream)
                 ├── Push Notifications (Firebase FCM)
                 ├── Webhook Retries & Billing Reconciliations
                 └── Scheduled Maintenance & Reports (Cron)
