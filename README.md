@@ -1,158 +1,202 @@
-![Header Banner](github.png)
+![Md. Rakibur Rahman Header Banner](github.png)
 
 # Md. Rakibur Rahman
 
-**Backend Engineer | Full Stack Engineer | Node.js & TypeScript Specialist**
-
-Building scalable server-side systems, resilient API architectures, and modern full-stack web applications with a focus on performance, security, and production readiness.
-
----
-
-### 👨‍💻 About
-
-I am a Backend and Full Stack Engineer specializing in Node.js, TypeScript, Next.js, and React ecosystems, currently building production APIs and enterprise admin dashboards at **Spark Tech Agency**. My core focus is designing structured server-side systems, efficient database schemas, secure authentication mechanisms, and responsive client-side interfaces.
-
-I emphasize building end-to-end software with clear boundaries, predictable state management, comprehensive runtime validation, and scalable database design—ensuring applications remain maintainable as system complexity grows.
+**Backend-Focused Full-Stack Software Engineer**  
+*Building resilient server-side architectures, high-throughput data pipelines, and mission-critical full-stack applications.*
 
 ---
 
-### 💡 Engineering Principles
+## ⚡ Executive Summary
 
-- **Clean Architecture & Separation of Concerns**: Decoupling HTTP handlers, business logic, and database access layers using service abstractions, paired with modular component structures on the frontend.
-- **Defensive Validation & Type Safety**: Enforcing strict type boundaries end-to-end with TypeScript and validating data contracts at both API boundaries and form inputs using Zod.
-- **Security-First Design**: Implementing robust authentication pipelines with short-lived JWTs, token rotation, HTTP-only cookie storage, and granular Role-Based Access Control (RBAC).
-- **Data Modeling & Query Optimization**: Designing normalized relational tables (PostgreSQL) and optimized document schemas (MongoDB), backed by Redis caching strategies for high-frequency operations.
-- **Resilient Integration & Component Design**: Handling third-party webhooks idempotently, managing real-time WebSockets, and building accessible UI design systems with Next.js, React, and Tailwind CSS.
+I am a **Backend-Focused Full-Stack Software Engineer** specializing in the **Node.js, TypeScript, Express, Next.js, and React** ecosystems. Currently engineering production backend architectures and enterprise management systems at **Spark Tech Agency**, my work centers on designing fault-tolerant REST and RPC APIs, scalable database schemas, idempotent billing pipelines, and responsive real-time distributed services.
+
+My engineering philosophy prioritizes **clean boundaries, strict type contracts, defensible database design, and end-to-end security**. I build software designed to withstand operational scale—decoupling business logic from HTTP transports, automating asynchronous workloads through distributed queues, and ensuring high observability across every layer.
 
 ---
 
-### ⚙️ Technical Capabilities
+## 🏛️ Core Engineering Strengths
 
-#### Backend Engineering
-- **RESTful & gRPC API Architecture**: Designing consistent API contracts, custom route middleware, gRPC protocol buffers, pagination, and standardized error payloads.
-- **Authentication & Authorization**: Multi-tier auth pipelines using JWT access tokens, HTTP-only refresh cookies, role hierarchy enforcement, and session revocation.
-- **Database Architecture**: PostgreSQL relational modeling, indexing, and transaction management; MongoDB schema validation, compound indexing, and aggregation pipelines.
-- **Caching & Rate Limiting**: In-memory caching with Redis to reduce database read pressure and sliding-window rate limiting to prevent API abuse.
-- **Payment & Multi-Platform Subscriptions**: Integration with Stripe, PayFast, Apple In-App Purchases (`node-apple-receipt-verify`), and Google Play Billing APIs.
-- **Real-Time Communication**: Bidirectional messaging and event streaming via Socket.IO, structured into dedicated server rooms and channel broadcast patterns.
-- **Media & Storage Engineering**: Video transcribing (`fluent-ffmpeg`), asynchronous multi-part uploads, AWS S3 presigned transfers, and BunnyCDN CDN integration.
-- **Reliability & Background Jobs**: Asynchronous background task processing (BullMQ), centralized exception middleware, operational logging (Winston), and Zod request validation.
-
-#### Frontend Engineering
-- **Modern Full-Stack Applications**: Building SSR/SSG web applications and interactive SPAs using Next.js (App Router), React 19/18, TypeScript, and Vite.
-- **Global State Management**: Managing complex client state and persistent sessions using Redux Toolkit (`@reduxjs/toolkit`), Redux Persist, and React Context.
-- **Data Visualization & Dashboards**: Constructing analytics dashboards with interactive charting (Recharts), complex data tables (TanStack Table with sorting & server-side pagination), and responsive UI layouts.
-- **Form Workflows & UI Design Systems**: Building accessible interface systems with Radix UI, Tailwind CSS, Framer Motion animations, React Hook Form, and TipTap rich-text editing.
+- **Clean Architecture & Domain Separation:** Decoupled service layers, clear domain boundaries, and modular controller-service-repository patterns that keep large-scale codebases maintainable.
+- **Defensive Type Safety & Contract Validation:** End-to-end type soundness with TypeScript and runtime boundary enforcement using Zod schemas at both HTTP and inter-service layers.
+- **Financial & Idempotent Transactions:** Resilient multi-gateway payment integrations (Stripe, Stripe Connect, PayFast, Apple IAP, Google Play) equipped with webhook verification and atomic state updates.
+- **Distributed Queues & Background Processing:** Offloading intensive workloads (video transcoding, push notifications, batch emails, payment reconciliations) via BullMQ worker clusters and Redis.
+- **Security-First Engineering:** Robust authentication pipelines leveraging short-lived JWTs, HTTP-only refresh cookies, sliding-window rate limiting, Helmet hardening, and role-based access control (RBAC).
+- **Relational & Document Data Modeling:** High-performance database designs spanning normalized PostgreSQL schemas, optimized MongoDB collections with aggregation pipelines, and strategic Redis caching.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Technical Capabilities
 
-#### Languages & Core
+### Core Runtime & Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-#### Frontend & UI
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
-![TanStack Table](https://img.shields.io/badge/TanStack_Table-FF4154?style=flat-square&logo=reacttable&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-#### Backend & Frameworks
+### Backend Architecture & Microservices
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0055E6?style=flat-square&logo=json&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-CC3534?style=flat-square&logo=redis&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Winston](https://img.shields.io/badge/Winston-2D3748?style=flat-square&logo=logging&logoColor=white)
 
-#### Databases & In-Memory Storage
+### Databases & In-Memory Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-#### DevOps & Infrastructure
+### Security, Auth & Gateways
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Helmet](https://img.shields.io/badge/Helmet-000000?style=flat-square&logo=shield&logoColor=white)
+
+### Frontend Engineering & Dashboards
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TanStack Table](https://img.shields.io/badge/TanStack_Table-FF4154?style=flat-square&logo=reacttable&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=chartdotjs&logoColor=white)
+
+### Cloud, Media & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-#### Cloud & Third-Party Services
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Apple App Store](https://img.shields.io/badge/Apple_IAP-000000?style=flat-square&logo=apple&logoColor=white)
-![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![BunnyCDN](https://img.shields.io/badge/BunnyCDN-FF8700?style=flat-square&logo=bunny&logoColor=white)
+![Firebase FCM](https://img.shields.io/badge/Firebase_FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Engineering Projects
 
-#### 📊 ENG Admin & Enterprise Dashboard
-**Full-Stack Management System & Analytics Portal**
-- **Focus**: High-performance dashboard UI, server-side data tables, complex state management, and analytics visualization.
-- **Stack**: Next.js 15, React 19, TypeScript, Redux Toolkit, TanStack Table, Tailwind CSS, Recharts, Framer Motion
-- **Engineering Highlights**:
-  - Built enterprise analytics dashboard utilizing Next.js 15 App Router and React 19 concurrent features.
-  - Implemented server-side paginated data tables using TanStack Table integrated with Redux Toolkit state persistence.
-  - Constructed interactive metric charts and real-time report summaries with Recharts and customized Radix UI components.
+### 1. ENG Sports Infrastructure & Enterprise Ecosystem
+> **Production Sports League Platform, Media Transcoding Pipeline & Admin Dashboard**
 
-#### 🧘 Yoga With Jen
-**On-Demand Fitness Platform & Media Streaming Backend**
-- **Focus**: High-volume video delivery, multi-platform subscriptions (Stripe, Apple & Google Play), and background queues.
-- **Stack**: Node.js, Express.js, TypeScript, MongoDB, Redis, BullMQ, AWS S3, BunnyCDN, Stripe, Google APIs, Twilio
-- **Engineering Highlights**:
-  - Engineered scalable media storage and video streaming delivery integration using BunnyCDN and AWS S3 signed URLs.
-  - Architected multi-platform subscription handling integrating Stripe webhooks, Apple receipt verification (`node-apple-receipt-verify`), and Google Play Billing APIs.
-  - Offloaded async notification dispatches and background user sessions using BullMQ worker queues and Redis adapters.
-
-#### ⚙️ ENG Backend System
-**Enterprise Microservices & Media Processing Infrastructure**
-- **Focus**: Multi-protocol API services (gRPC & REST), video encoding pipelines, S3 transfers, and email automation.
-- **Stack**: Node.js, Express.js (v5), TypeScript, gRPC, Mongoose, Redis, BullMQ, AWS S3, Stripe, Fluent-FFmpeg, Brevo
-- **Engineering Highlights**:
-  - Architected dual REST and gRPC communication layers (`@grpc/grpc-js`, `protobufjs`) for high-speed inter-service requests.
-  - Developed automated media processing pipelines utilizing `fluent-ffmpeg` for video encoding paired with AWS S3 presigned uploads.
-  - Configured distributed background queues via BullMQ and Redis for event telemetry, email delivery (Brevo), and transactional billing.
-
-#### 💳 Corniel Swanepoel Infrastructure
-**Multi-Gateway Billing & Admin Dashboard Platform**
-- **Focus**: Full-stack admin management, multi-gateway payments (PayFast & Stripe), job scheduling, and Docker deployment.
-- **Stack**: React, Next.js, Node.js, Express.js, TypeScript, MongoDB, Redis, BullMQ, PayFast, Stripe, Docker
-- **Engineering Highlights**:
-  - Integrated dual payment processing gateways (PayFast & Stripe) with signature verification and idempotent webhook handlers.
-  - Configured real-time queue monitoring dashboards using BullMQ and `@bull-board/express` for worker health metrics telemetry.
-  - Developed administrative frontend interface paired with containerized Redis cache and task queue infrastructure.
+- **Source Code**: [Backend API Repository](https://github.com/rakiburrahman307/eng-backend) | [Enterprise Dashboard Repository](https://github.com/pranab56/eng-dashboard)
+- **Primary Technologies**: Node.js, Express, TypeScript, Next.js 15, React 19, MongoDB (Mongoose), Redis, BullMQ, Socket.IO, AWS S3, Fluent-FFmpeg, Stripe, Brevo, Firebase Admin (FCM), Redux Toolkit, TanStack Table.
+- **The Problem**: Coordinating multi-tier sports leagues, tournament brackets, player transfers, and video broadcasts requires synchronized real-time state, high-throughput asynchronous video processing, and a low-latency administration dashboard for match officials.
+- **Architectural Implementation**:
+  - **Dual API Communication Layer**: Engineered RESTful route contracts alongside high-throughput gRPC protocol buffers (`@grpc/grpc-js`, `protobufjs`) for low-latency inter-service data transmission.
+  - **Automated Video Transcoding Pipeline**: Implemented an automated encoding workflow using `fluent-ffmpeg` and `ffmpeg-static` for HLS stream preparation, paired with AWS S3 presigned upload transfers to eliminate server memory exhaustion during multi-gigabyte video uploads.
+  - **Asynchronous Task Architecture**: Built robust BullMQ worker queues on Redis to schedule push notifications (FCM), automated match reminders, transactional emails (Brevo), and coin transaction ledgers without blocking event loops.
+  - **Real-Time Synchronization**: Configured Socket.IO clusters backed by `@socket.io/redis-adapter` for multi-instance event synchronization, match status updates, and live score telemetry.
+  - **Enterprise Dashboard**: Built a Next.js 15 App Router administration portal utilizing TanStack Table for server-side paginated rosters, Redux Toolkit session persistence, and Recharts metric summaries.
 
 ---
 
-### 📊 GitHub Activity
+### 2. Loan Management & Financial Servicing Platform
+> **Multi-Party Loan Origination, Borrower Servicing & Automated Payout Engine**
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rakiburrahman307&theme=react-dark&bg_color=0D1117&hide_border=true)
+- **Source Code**: [Backend Repository](https://github.com/rakiburrahman307/loan-management-backend)
+- **Primary Technologies**: Node.js, Express, TypeScript, MongoDB (Mongoose), Redis, BullMQ, Stripe & Stripe Connect, Passport.js (OAuth2 + JWT), Winston, Zod, Helmet.
+- **The Problem**: Loan origination platforms demand airtight security, strict audit logging, automated multi-step repayment schedules, and programmatic escrow disbursements while preventing double-charges and race conditions.
+- **Architectural Implementation**:
+  - **Financial Ledger & Stripe Connect**: Integrated Stripe Connect workflows for merchant/borrower onboarding, automated disbursements, and idempotent webhook handlers guarding loan repayment state transitions.
+  - **Queue-Driven Payment Reminders**: Architected background workers using BullMQ and Redis for scheduled delinquency checks, interest calculation sweeps, and automated notification dispatches, monitored through an integrated Bull Board dashboard.
+  - **Layered Security Hardening**: Enforced HTTP Parameter Pollution (`hpp`) protection, MongoDB sanitization (`express-mongo-sanitize`), sliding-window rate limiting (`express-rate-limit`), and defensive runtime validation using Zod.
+  - **Enterprise Observability**: Configured Winston daily rotating file logging with custom exception and rejection handlers, guaranteeing full auditability across all loan ledger modifications.
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakiburrahman307&theme=github_dark" alt="Rakibur's GitHub Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakiburrahman307&theme=github_dark" alt="Top Commit Languages" width="48%" />
+---
+
+### 3. University Academic Management Architecture
+> **Relational Domain-Driven Academic ERP & Curriculum Engine**
+
+- **Source Code**: [Backend Repository](https://github.com/rakiburrahman307/university-backend-ts)
+- **Primary Technologies**: Node.js, Express, TypeScript, MongoDB (Mongoose), Zod, JWT, Cloudinary, Multer, Nodemailer.
+- **The Problem**: Managing academic institutions involves intricate dependency graphs: prerequisite course verification, multi-semester registration windows, faculty-department hierarchies, and role-segregated administrative access.
+- **Architectural Implementation**:
+  - **Formal Domain Modeling**: Produced comprehensive Entity-Relationship (ER) schemas and requirement specifications detailing relational hierarchies across Users, Faculties, Departments, Courses, and Semesters.
+  - **Transaction-Safe Operations**: Structured course enrollment algorithms preventing over-subscription and enforcing prerequisite completion before course assignment.
+  - **Documented API Surface**: Authored complete Postman API collections and architectural documentation, ensuring uniform REST response envelopes and centralized global error handling.
+
+---
+
+### 4. Production Client Platforms (Spark Tech Agency)
+
+#### 🧘 Yoga With Jen — On-Demand Media Streaming & Multi-Store Billing
+*Production fitness streaming platform serving global subscribers.*
+- **Key Engineering**: Engineered high-volume media streaming integration leveraging BunnyCDN and AWS S3 presigned URLs. Architected multi-platform recurring billing coordinating Stripe Webhooks, Apple In-App Purchase receipt verification (`node-apple-receipt-verify`), and Google Play Billing APIs. Dispatched asynchronous notification queues via BullMQ and Redis.
+- *Repository status: Private client codebase under NDA.*
+
+#### 💳 Corniel Swanepoel — Multi-Gateway Financial Infrastructure
+*Enterprise management platform and international payment gateway integration.*
+- **Key Engineering**: Engineered dual payment gateway integrations (PayFast and Stripe) with signature validation and idempotent webhook listeners. Implemented BullMQ queue health telemetry via `@bull-board/express` and established containerized Redis caching workflows.
+- *Repository status: Private client codebase under NDA.*
+
+---
+
+## ⚙️ Backend Engineering Deep Dive
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                      PRODUCTION BACKEND TOPOLOGY                       │
+└────────────────────────────────────────────────────────────────────────┘
+          │
+          ▼
+   [ Nginx / Reverse Proxy & TLS Termination ]
+          │
+          ▼
+   [ Express.js Gateway ]
+    ├── Security Pipeline (Helmet, CORS, HPP, Mongo-Sanitize)
+    ├── Sliding-Window Rate Limiting (Redis / In-Memory)
+    ├── Authentication (JWT Access / HTTP-Only Refresh / RBAC)
+    └── Request Contract Validation (Zod Schemas)
+          │
+          ├──► [ REST / gRPC Controllers ] ──► [ Service Domain Logic ]
+          │                                          │
+          │                                 ┌────────┴────────┐
+          │                                 ▼                 ▼
+          │                           [ MongoDB / PG ]   [ Redis Cache ]
+          │                                                   │
+          └──► [ Distributed Worker Clusters (BullMQ) ] ◄─────┘
+                ├── Video Encoding (FFmpeg)
+                ├── Push Notifications (Firebase FCM)
+                ├── Webhook Retries & Billing Reconciliations
+                └── Scheduled Maintenance & Reports (Cron)
+```
+
+- **API Architecture:** Clean separation of concerns with controllers delegating directly to stateless service classes. Standardized API response contracts `{ success, statusCode, message, meta, data }` and centralized exception normalization.
+- **Database Engineering:** Optimized document schemas with compound indexing on query filters; ACID transactions for multi-document ledger operations; Redis cache-first lookup patterns with TTL and explicit invalidation.
+- **Real-Time Systems:** Socket.IO multi-room architectures with Redis pub/sub adapters to scale horizontal WebSocket traffic across clustered Node.js worker instances.
+- **Asynchronous Reliability:** Resilient BullMQ workers with exponential backoff retry strategies, dead-letter job isolation, and Bull Board administrative telemetry.
+- **Financial Integrity:** Webhook signature verification, idempotency keys, and asynchronous event reconciliation to prevent duplicate charges or inconsistent states.
+
+---
+
+## 💻 Development & Deployment Standards
+
+- **Environment & Secret Management:** Strict schema validation for environment configurations at boot time; zero hardcoded secrets.
+- **Containerization & Deployment:** Docker multi-stage builds for lean production images, Docker Compose for local service orchestration (Node, Redis, MongoDB, Postgres), and deployment via Linux VPS, Nginx reverse proxy, and PM2 process management.
+- **Code Hygiene & CI:** ESLint, Prettier, and TypeScript strict mode enabled across all active repositories. Commit conventions follow Conventional Commits standard.
+
+---
+
+## 📈 GitHub Activity & Engineering Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakiburrahman307&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rakibur's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakiburrahman307&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="49%" />
 </p>
 
 ---
 
-### 📬 Contact & Links
+## 📬 Connect & Collaborate
 
 - **LinkedIn**: [linkedin.com/in/rakibur-rahman-14b33a2a4](https://www.linkedin.com/in/rakibur-rahman-14b33a2a4)
 - **Email**: [rakiburrahman.dev@gmail.com](mailto:rakiburrahman.dev@gmail.com)
 - **GitHub**: [github.com/rakiburrahman307](https://github.com/rakiburrahman307)
-- **Facebook**: [facebook.com/rakiburrahman305](https://fb.com/rakiburrahman305)
-- **Instagram**: [instagram.com/rakibur_rahman_305](https://instagram.com/rakibur_rahman_305)
+- **Location**: Dhaka, Bangladesh
+
+---
+
+> *"Production software isn't just about writing code that works—it's about architecting systems that fail gracefully, scale reliably, and remain maintainable long after deployment."*
