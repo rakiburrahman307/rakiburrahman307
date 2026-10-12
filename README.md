@@ -7,7 +7,7 @@
 
 ---
 
-## ⚡ Executive Summary
+## Executive Summary
 
 I am a **Backend-Focused Full-Stack Software Engineer** specializing in the **Node.js, TypeScript, Express, Next.js, and React** ecosystems. Currently engineering production backend architectures and enterprise management systems at **Spark Tech Agency**, my work centers on designing fault-tolerant REST and RPC APIs, scalable database schemas, multi-gateway billing pipelines, and responsive real-time distributed services.
 
@@ -15,7 +15,7 @@ My engineering philosophy prioritizes **clean boundaries, strict type contracts,
 
 ---
 
-## 🏛️ Core Engineering Strengths
+## Core Engineering Strengths
 
 - **Clean Architecture & Domain Separation:** Decoupled service layers, clear domain boundaries, and modular controller-service-repository patterns that keep large-scale codebases maintainable.
 - **Defensive Type Safety & Contract Validation:** End-to-end type soundness with TypeScript and runtime boundary enforcement using Zod schemas at both HTTP and inter-service layers.
@@ -26,7 +26,7 @@ My engineering philosophy prioritizes **clean boundaries, strict type contracts,
 
 ---
 
-## 🛠️ Technical Capabilities
+## Technical Capabilities
 
 ### Core Runtime & Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -77,7 +77,7 @@ My engineering philosophy prioritizes **clean boundaries, strict type contracts,
 
 ---
 
-## 🚀 Featured Engineering Projects
+## Featured Engineering Projects
 
 ### 1. ENG Sports Infrastructure & Enterprise Ecosystem
 > **Production Sports League Platform, Media Transcoding Pipeline & Admin Dashboard**
@@ -100,7 +100,7 @@ My engineering philosophy prioritizes **clean boundaries, strict type contracts,
 > **High-Performance Video-on-Demand Platform, Bunny Stream CDN & Multi-Store Billing**
 
 - **Status**: **Live in Production**
-- **Live Demonstrations**: [Web Platform](https://creepy-shorts.com) | [Production API](https://api.creepy-shorts.com)
+- **Live Demonstrations**: [Google play Platform](https://play.google.com/store/apps/details?id=com.rubengalindo.creepyshorts&hl=en) | [Production API](https://api.creepy-shorts.com)
 - **Source Code**: [Backend Repository](https://github.com/rakiburrahman307/creepy-backend)
 - **Primary Technologies**: Node.js, Express, TypeScript, MongoDB (Mongoose), Redis, BullMQ, BunnyCDN Storage & Stream, Stripe, Apple In-App Purchase Verification (`node-apple-receipt-verify`), Socket.IO, Passport.js OAuth2, Winston, Zod.
 - **The Problem**: High-concurrency video entertainment platforms require resilient video delivery networks with zero-buffer streaming, strict subscriber entitlements across Web and iOS stores, and real-time interaction (chat, comments, watch bookmarks).
@@ -156,7 +156,7 @@ My engineering philosophy prioritizes **clean boundaries, strict type contracts,
 
 ---
 
-## ⚙️ Backend Engineering Deep Dive
+## Backend Engineering Deep Dive
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -194,7 +194,7 @@ My engineering philosophy prioritizes **clean boundaries, strict type contracts,
 
 ---
 
-## 💻 Development & Deployment Standards
+## Development & Deployment Standards
 
 - **Environment & Secret Management:** Strict schema validation for environment configurations at boot time; zero hardcoded secrets.
 - **Containerization & Deployment:** Docker multi-stage builds for lean production images, Docker Compose for local service orchestration (Node, Redis, MongoDB, Postgres), and deployment via Linux VPS, Nginx reverse proxy, and PM2 process management.
@@ -202,7 +202,7 @@ My engineering philosophy prioritizes **clean boundaries, strict type contracts,
 
 ---
 
-## 📈 GitHub Activity & Engineering Metrics
+## GitHub Activity & Engineering Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rakiburrahman307&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rakibur's GitHub Stats" width="49%" />
